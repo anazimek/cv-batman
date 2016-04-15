@@ -5,15 +5,12 @@
 <link rel="stylesheet" type="text/css" href="css/css.css"/>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=lato">
 <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Oswald' >
-
 <title>! LE CHEVALIER NOIR !</title>
 </head> 
-
 <body>
 <header>
-<div class="center_header">
-<div class="presentation">
-
+<div>
+<div>
 <p>WAYNE Bruce</p>
 <p>Num : 555 - 333 - 666</p>
 <p>36, street BatCave</p>
@@ -21,25 +18,25 @@
 <p>53340 Gotham City</p>
 
 </div>
-<img class="bordureimage"id="logo" src="pic/logo.jpg" alt="logo">
-</div></header>
+<img id="logo" src="pic/logo.jpg" alt="logo">
+</div>
+</header>
+
 
 
 <h2>SYNOPSIS</h2>
 <div id="contoursynopsis">
 
-<div class="textsynopsis">
+<div>
 <p>Bruce Wayne est le fils du dr. Wayne Thomas et de Wayne Marta.<br />
 Il mène une enfance heureuse jusqu'au meutre de ses parents à l'age de huit ans à la sortie du theatre.<br />
 De parents décédés, il fut élevé par son vallet Alfred et suit un entrainement initié par Ras'al gul, le chef de la ligue des assassins.<br />
 Enfin il revient à Gotham dans le but de nettoyer la ville de tous les malfras</p>
 </div>
-<img class="bordureimage"id="profil"src="pic/profil.jpg" alt="profil"/>
+<img class="profil"id="profil"src="pic/profil.jpg"/>
 </div>
-
-<div id="formations">
-
-<div class="contourtexteformation">
+<div>
+<div>
 <h2>FORMATIONS</h2>
 <ul>
 <li class="titre">LA MORT DE SES PARENTS :</li><p>
@@ -49,15 +46,16 @@ Licence dans la ligue des assassins à Nanda Parbat:
 karate, jujitsu, krav-maga, judo, boxe, muy thai, Aikido, arts martiaux,</p>
 <li class="titre">PERMIS :</li><p>
 batmobile, batcycle, batwing, bat-coptère, bat-deltaplane, bat fusée,<br />bat tourbillot,batcave volante, bat-jet</p>
-<img class="bordureimage"id="batmobile"src="pic/batmobile.png" alt="logo">
+<img id="batmobile"src="pic/batmobile.png" alt="logo">
 <li class="titre">MASTER HOMME D'AFFAIRE :</li><p>
 master homme d'affaire à wayne enterprise.</p>
 </ul>
 </div>
 
 
-<div id="experience_professionelle">
-<h2 id="titrexppro">EXPERIENCES PROFESSIONNELLES</h2>
+
+<div>
+<h2 id="xppro">EXPERIENCES PROFESSIONNELLES</h2>
 <ul>
 <li class="titre">Ras'al ghul :</li><p>
 Il a sauvé une ville d'un gaz qui fait apparaitre le pire cauchemar des gens</p>
@@ -71,8 +69,7 @@ Combat le crime avec Superman ...</p>
 </ul>
 </div>
 
-
-<div id="centre_interet">
+<div>
 <h2>CENTRE D'INTERET</h2>
 <ul>
 <li class="titre">RACHEL Dawnes :</li><p>
@@ -86,6 +83,5 @@ Sa ville, son royaume !!</p>
 <li class="titre"> Jim Gordon :</li><p>
 Inspecteur de police(contact de batou)</p>
 </div>
-
 </body>
 </html>
